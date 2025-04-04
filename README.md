@@ -20,4 +20,5 @@ Each solution is structured for clarity, optimized for performance, and written 
 
 leetcode/
 ├── javascript/
-│   ├──2620_counter.js
+│   ├──2620-counter.js
+│   ├──2619-Array-Prototype-Last.js
