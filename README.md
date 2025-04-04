@@ -19,4 +19,5 @@ Each solution is structured for clarity, optimized for performance, and written 
 ## 📂 Folder Structure
 
 leetcode/
-├── arrays/
+├── javascript/
+│   ├──2620_counter.js
